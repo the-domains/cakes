@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9856631
+  saturation: 0.1738351
   brandStrength: 0.5286738
   lightness: 1
   brandColors:
-    - '#FEFFFD'
-    - '#5B4120'
-    - '#1E100D'
-    - '#C7C9DF'
-    - '#3E83C4'
-  rhythmicContrast: 1
+    - '#060606'
+    - '#7A8790'
+    - '#E1443B'
+    - '#FED459'
+    - '#40403E'
+  rhythmicContrast: 0.2992831
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Cakes
+favicon: null
 opengraph:
   image: null
   type: null
