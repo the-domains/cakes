@@ -1,0 +1,28 @@
+name: Cakes By Ashley Perry
+favicon: null
+layout_spectrum: 0.7882106469478458
+typography_spectrum: 0.563207077793777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7471839576028287
+  lightness: 0.7584928898140788
+  saturation: 0.6700432654470205
+  rhythmicContrast: 0.8258843151852489
+purpose: []
