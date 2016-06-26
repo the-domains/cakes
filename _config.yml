@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.9856631
-  brandStrength: 0.9551972
+  brandStrength: 0.5286738
   lightness: 1
   brandColors:
     - '#FEFFFD'
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.59603
-layout_spectrum: 0.6577061
+layout_spectrum: 0
