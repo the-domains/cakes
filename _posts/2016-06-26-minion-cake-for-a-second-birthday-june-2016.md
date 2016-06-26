@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-26T15:57:39.483Z'
-dateModified: '2016-06-26T15:56:30.580Z'
+datePublished: '2016-06-26T15:59:14.181Z'
+dateModified: '2016-06-26T15:59:08.293Z'
 title: 'Minion cake for a second birthday. '
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-06-26-minion-cake-for-a-second-birthday-june-2016.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: minion-cake-for-a-second-birthday/index.html
 _type: Article
 
