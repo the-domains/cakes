@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cakes By Ashley Perry]]></title>
+        <description><![CDATA[Cakes By Ashley Perry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 26 Jun 2016 04:28:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minion cake for a second birthday. ]]></title>
+            <description><![CDATA[<article><h1>Minion cake for a second birthday. </h1><h2>June 2016</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20768688-02a8-41e7-9b00-80ef225b47bf.jpg"></article>]]></description>
+            <link>undefinedminion-cake-for-a-second-birthday/index.html</link>
+            <guid isPermaLink="false">e01c5290-d9c7-4b86-8e3f-58d6446e7e26</guid>
+            <pubDate>Sun, 26 Jun 2016 04:27:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
