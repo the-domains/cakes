@@ -5,13 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-26T15:52:49.078Z'
-dateModified: '2016-06-26T15:52:48.300Z'
+datePublished: '2016-06-26T15:57:39.483Z'
+dateModified: '2016-06-26T15:56:30.580Z'
+title: 'Minion cake for a second birthday. '
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-26-minion-cake-for-a-second-birthday-june-2016.md
-title: 'Minion cake for a second birthday. '
 authors: []
 publisher: null
 starred: false
