@@ -1,29 +1,41 @@
-name: Cakes
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.59603
 title: Cakes By Ashley Perry
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9856631
+  brandStrength: 0.9551972
+  lightness: 1
+  brandColors:
+    - '#FEFFFD'
+    - '#5B4120'
+    - '#1E100D'
+    - '#C7C9DF'
+    - '#3E83C4'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Cakes
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010103'
-    - '#ffffff'
-    - '#6d6e72'
-    - '#ed2027'
-    - '#ffd602'
-  brandStrength: 0.6875
-  lightness: 0.1875
-  saturation: 0.6700432654470205
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.59603
+layout_spectrum: 1
