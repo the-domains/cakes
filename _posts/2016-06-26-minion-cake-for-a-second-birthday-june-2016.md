@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Minion cake for a second birthday. June 2016
-datePublished: '2016-06-26T02:22:05.482Z'
-dateModified: '2016-06-26T02:20:23.085Z'
+datePublished: '2016-06-26T02:23:35.143Z'
+dateModified: '2016-06-26T02:23:21.731Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-26-minion-cake-for-a-second-birthday-june-2016.md
 authors: []
 publisher: null
