@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.1738351
+  saturation: 0.01075269
   brandStrength: 0.5286738
-  lightness: 1
+  lightness: 0.3189964
   brandColors:
     - '#060606'
     - '#7A8790'
     - '#E1443B'
     - '#FED459'
     - '#40403E'
-  rhythmicContrast: 0.2992831
+  rhythmicContrast: 0.1648746
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Cakes
 favicon: null
+name: Cakes
 opengraph:
   image: null
   type: null
