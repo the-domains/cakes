@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-26T15:52:42.580Z'
-dateModified: '2016-06-26T15:52:42.348Z'
-author: []
-sourcePath: _posts/2016-06-26-sesame-street-cake-for-my-sons-first-birthday.md
+datePublished: '2016-06-26T15:58:11.781Z'
+dateModified: '2016-06-26T15:56:57.073Z'
 title: Sesame Street themed first birthday
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-26-sesame-street-cake-for-my-sons-first-birthday.md
 authors: []
 publisher: null
 starred: false
